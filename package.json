@@ -51,7 +51,7 @@
     "file-loader": "^0.8.5",
     "imports-loader": "^0.6.5",
     "isomorphic-fetch": "^2.2.1",
-    "jquery": "^2.2.0",
+    "jquery": "^3.4.1",
     "lodash": "^4.0.0",
     "mocha": "^2.4.5",
     "moment": "^2.11.2",
@@ -83,7 +83,7 @@
   },
   "dependencies": {
     "history": "^2.0.0-rc2",
-    "jquery": "^2.2.0",
+    "jquery": "^3.4.1",
     "react": "^0.14.3",
     "react-dom": "^0.14.3",
     "react-redux": "^4.1.1",
